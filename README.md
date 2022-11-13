@@ -1,5 +1,5 @@
 # Food-Order-App
-Курсовое приложение заказа еды на React
+Приложение заказа еды на React
 
 https://diewerkself.github.io/Food-Order-App/
 
